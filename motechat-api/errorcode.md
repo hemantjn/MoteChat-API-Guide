@@ -1,7 +1,3 @@
----
-description: MoteChat error codes
----
-
 # Error Codes
 
 #### MoteChat

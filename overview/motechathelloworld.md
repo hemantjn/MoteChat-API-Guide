@@ -1,7 +1,3 @@
----
-description: MoteChat configuration
----
-
 # MoteChat HelloWorld
 
 1. Setup _'nodejs'_ environment

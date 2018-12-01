@@ -1,7 +1,3 @@
----
-description: MoteChat functions
----
-
 # Function List
 
 | **Command** | **Description** |
